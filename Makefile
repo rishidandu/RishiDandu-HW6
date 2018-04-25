@@ -1,7 +1,7 @@
 #
 # UTD CS3377 CDK Example
-# Dr. Perkins
-# stephen.perkins@utdallas.edu
+# Rishi Dandu
+# rishi.dandu@utdallas.edu
 #
 
 CXX = g++
